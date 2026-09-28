@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Roberto De la Cruz 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Desarrollador+Backend+Junior;Python+%7C+APIs+%7C+Autenticacion+JWT;Aprendiendo+MCP+(Model+Context+Protocol)" alt="Desarrollador Backend Junior" />
+  <b>Desarrollador Backend Junior</b> · Python · APIs · Autenticación JWT
 </p>
 
 ---
@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 📫 Contacto
-
-<!-- Agrega aquí tus enlaces, por ejemplo:
+<!-- Cuando tengas tus enlaces, agrega una sección "### 📫 Contacto" aquí, por ejemplo:
 <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 -->
