@@ -16,7 +16,7 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **Snap** | Aplicación con autenticación basada en tokens JWT | JWT |
+| [**Snap**](https://github.com/rdelacruz3/Snap) | Aplicación con autenticación basada en tokens JWT | JWT |
 | **Asistente-IA** | Bot asistente conectado a la API de ChatGPT | Python |
 
 ### 🛠️ Tecnologías
